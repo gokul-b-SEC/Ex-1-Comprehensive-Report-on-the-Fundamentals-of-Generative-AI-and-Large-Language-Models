@@ -555,14 +555,5 @@ AI: The Tumultuous History of the Search for Artificial Intelligence.
 Artificial Intelligence: A New Synthesis.
 
 
-
-
-
-                                                                      THANK YOU 
-
-
-                          --------------------------------------------------
-
-
-
 Result:
+The experiment resulted in a well-structured and informative report that explains the key concepts of Generative AI and Large Language Models. The study improved understanding of modern AI technologies, their architecture, applications, and future potential. It also demonstrated how generative AI tools are transforming fields such as education, software development, content creation, and research.
